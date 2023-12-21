@@ -1,6 +1,7 @@
 #!/bin/python3
 
 #variables and methods
+# edit on 21.12.2023
 
 quote = "All is fair in love war."
 print (quote)

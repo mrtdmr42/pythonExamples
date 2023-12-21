@@ -15,7 +15,7 @@ age = 30 # int
 gpa = 3.7 # float
 print (age)
 print (int(30.9))
-print("my name is  " + name + " an I am " + str(age) + " years old")
+print("my name is  " + name + " and I am " + str(age) + " years old")
 
 age = age + 2
 print(age)
@@ -122,7 +122,9 @@ print(movies)
 movies.pop(0)
 print(movies)
 
-
+football_teams = ["GS", "FB", "TS", "KS", "Bayern"]
+print(football_teams)
+print(football_teams[1: ])
 
 
 
